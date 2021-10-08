@@ -269,7 +269,7 @@ div#preloader {
   #header {
     height: 90px;
     padding: 10px 0;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.95);
   }
   #header .logo h1 {
     font-size: 28px;
