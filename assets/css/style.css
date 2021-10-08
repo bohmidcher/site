@@ -227,7 +227,7 @@ div#preloader {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 80px;
+  height: 90px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -262,7 +262,7 @@ div#preloader {
   padding: 0;
   margin: 0;
   max-height: 110px;
-  max-width: 120px;
+  max-width: 170px;
 }
 
 @media (max-width: 768px) {
